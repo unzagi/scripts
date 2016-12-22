@@ -1,0 +1,12 @@
+o "############################"
+echo "### RANCID START SCRIPT ###"
+echo "### BY UNZAGI           ###"
+#Change to directory
+echo "Changing directory to /opt/rancid/bin/"
+cd /opt/rancid/bin
+#Run Rancid Run
+echo "Running Rancid Script"
+ ./rancid-run
+echo "Rancid has run, exiting!"
+exit
+
