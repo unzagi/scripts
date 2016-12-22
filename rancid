@@ -1,4 +1,5 @@
-o "############################"
+#!/bin/bash
+echo "############################"
 echo "### RANCID START SCRIPT ###"
 echo "### BY UNZAGI           ###"
 #Change to directory
